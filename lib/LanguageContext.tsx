@@ -6,7 +6,7 @@ import { Locale, translations } from "./translations";
 type Ctx = {
   locale: Locale;
   setLocale: (l: Locale) => void;
-  t: typeof translations["en"];
+  t: any;
 };
 
 const LanguageContext = createContext<Ctx | null>(null);
