@@ -11,10 +11,10 @@ export const translations = {
     nav: { philosophy: "Philosophy", services: "Services", gallery: "Gallery", visit: "Visit", book: "Book Now" },
     hero: {
       
-      title1: "The quiet",
-      title2: "art of",
-      title3: "detail.",
-      sub: "A nail and beauty atelier where every line, cuticle and shade is considered before it is applied.",
+      title1: "The Quiet",
+      title2: "Art of Detail.",
+      
+      sub: "At G Beauty, we take our time to care for your hands and nails with a gentle touch and close attention to every detail.",
       cta: "Reserve your appointment",
       scroll: "Scroll",
     },
@@ -57,9 +57,9 @@ export const translations = {
     hero: {
       
       title1: "El arte",
-      title2: "silencioso",
-      title3: "del detalle.",
-      sub: "Un atelier de uñas y belleza donde cada línea, cutícula y tono se piensa antes de aplicarse.",
+      title2: "silencioso del detalle.",
+     
+      sub: "En G Beauty, cuidamos de tus manos y uñas sin prisa, con un toque delicado y atención a cada detalle.",
       cta: "Reserva tu cita",
       scroll: "Desplázate",
     },
@@ -102,9 +102,9 @@ export const translations = {
     hero: {
       
       title1: "A arte",
-      title2: "silenciosa",
-      title3: "do detalhe.",
-      sub: "Um atelier de unhas e beleza onde cada linha, cutícula e tom é pensado antes de ser aplicado.",
+      title2: "silenciosa do detalhe.",
+      
+      sub: "No G Beauty, cuidamos das suas mãos e unhas sem pressa, com um toque delicado e atenção a cada detalhe.",
       cta: "Marque a sua sessão",
       scroll: "Deslize",
     },
