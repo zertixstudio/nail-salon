@@ -11,7 +11,7 @@ module.exports = {
         "cream-dim": "#EFEADD",
         charcoal: "#16140F",
         "charcoal-soft": "#211E17",
-        gold: "#A9895C",
+        gold: "#9E9E9ECF",
         "gold-bright": "#C7A579",
         ink: "#2A2620",
         line: "#DCD5C4",
