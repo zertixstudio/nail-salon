@@ -10,7 +10,7 @@ export const translations = {
   en: {
     nav: { philosophy: "Philosophy", services: "Services", gallery: "Gallery", visit: "Visit", book: "Book Now" },
     hero: {
-      eyebrow: "Porto, Portugal",
+      
       title1: "The quiet",
       title2: "art of",
       title3: "detail.",
@@ -55,7 +55,7 @@ export const translations = {
   es: {
     nav: { philosophy: "Filosofía", services: "Servicios", gallery: "Galería", visit: "Visítanos", book: "Reservar" },
     hero: {
-      eyebrow: "Oporto, Portugal",
+      
       title1: "El arte",
       title2: "silencioso",
       title3: "del detalle.",
@@ -100,7 +100,7 @@ export const translations = {
   pt: {
     nav: { philosophy: "Filosofia", services: "Serviços", gallery: "Galeria", visit: "Visite-nos", book: "Reservar" },
     hero: {
-      eyebrow: "Porto, Portugal",
+      
       title1: "A arte",
       title2: "silenciosa",
       title3: "do detalhe.",

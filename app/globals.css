@@ -4,12 +4,24 @@
 
 html {
   background: #F7F4EC;
+  overflow-x: hidden;
 }
 
 body {
   color: #2A2620;
   background: #F7F4EC;
   overflow-x: hidden;
+  min-width: 100vw;
+}
+
+main,
+section,
+article,
+header,
+footer,
+nav,
+div {
+  min-width: 0;
 }
 
 ::selection {
